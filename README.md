@@ -1,0 +1,1 @@
+# adgmin_qrscanner
